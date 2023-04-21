@@ -6,7 +6,11 @@
 ### *a)*
 
 ```
-... Write here your answer ...
+A relação apresentada encontra-se na segunda forma normal, visto que existem dependências parciais, como:
+
+- Na segunda dependência funcional apresentada (Tipo_Livro, NoPaginas -> Preco), o número de páginas de um livro não está totalmente dependente do preço do livro;
+
+- Na última dependência funcional apresentada (Editor -> Endereco_Editor) 
 It is possible to <u>underline</u> -> {A, B,.. }
 -> R1 (_A_, B, C)
 -> R2 (B,F)
@@ -26,7 +30,7 @@ It is possible to <u>underline</u> -> {A, B,.. }
 ### *a)*
 
 ```
-... Write here your answer ...
+As chaves de R são A e B
 ```
 
 
